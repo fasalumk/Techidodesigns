@@ -62,7 +62,7 @@ function Updates() {
          whileInView={"show"}
          viewport={{once: false, amount:0.4}}
           className='flex justify-center space-x-2 '>
-   <a href="https://www.instagram.com/techido.in/"><button className="text-white bg-sky-800 cursor-pointer rounded text-sm border-none h-9 w-24 hover:bg-techido-blue">See More..</button></a>
+   <a href="https://www.instagram.com/techido.in/"><button className="text-white bg-sky-800 cursor-pointer rounded text-sm border-none h-9 w-24 hover:bg-techido-blue">See More....</button></a>
    <a href="https://www.instagram.com/techido.in/"><button className="text-white bg-orange-800 cursor-pointer rounded text-sm border-none h-9 w-48 hover:bg-orange-900"><GrInstagram  size={12} />     Follow us on Instagram</button></a>
  </motion.div>
  </center>
