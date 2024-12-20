@@ -75,17 +75,11 @@ function Technology() {
     <section className="py-16  md:px-1  0 lg:px-32   bg-white ">
       <Whatsapp />
        <div className="max-w-8xl mx-auto sm:px-6 ">
-         <motion.div 
-         variants={fadeIn("right", 0.5)}
-         initial="hidden"
-         whileInView={"show"}
-         viewport={{once: false, amount:0.4}}
-         
-         className="lg:text-center">
+         <div className="lg:text-center">
            <h2 className="font-sans font-black text-techido-blue md:pt-26 tracking-tighter text-center md:text-5xl sm: text-4xl mb-12 sm: pt-8">
            Technologies <br /> <span className='text-black text-4xl tracking-tight font-bold text-center'>we use</span>
            </h2>
-         </motion.div>
+         </div>
          <motion.div 
          variants={fadeIn("up", 0.2)}
          initial="hidden"
