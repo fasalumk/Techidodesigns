@@ -9,7 +9,7 @@ function Contact() {
     <>
     <div id='contact'>
     <div className="w-full mt-10 h-96 ">
-    <div className='max-w-screen-xl container mx-auto flex flex-col lg:flex-row ' >
+    <div className='max-w-8xl mx-auto sm:px-6  mx-auto flex flex-col lg:flex-row ' >
 
    <motion.div 
          variants={fadeIn("right", 0.5)}
