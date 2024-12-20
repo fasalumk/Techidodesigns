@@ -26,7 +26,7 @@ function Service() {
   return (
     <>
     <div id='services'>
-    <section className="py-16 px-7 sm:px-32 md:px-24 ">
+    <section className="py-16 px-7 sm:px-32 md:px-24">
        <div className="max-w-8xl mx-auto sm:px-6">
          <motion.div 
          variants={fadeIn("right", 0.5)}

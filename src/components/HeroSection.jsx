@@ -61,10 +61,10 @@ function HeroSection() {
       whileInView={"show"}
       viewport={{once: false, amount:0.4}}
       
-      className='max-w-screen-2xl container mx-auto'>
+      className='max-w-8xl mx-auto sm:px-6 '>
   <div 
             
-            className='w-full' id='home'  >
+            className='w-full ' id='home'  >
                <h1 className=' sm: text-5xl tracking-tight leading-none mt-36 md:text-6xl pl-2 font-sans font-black text-center tracking-tighter lg:pt-40  pb-2 sm: pt-20'>
                Rapidly build modern websites  <br /> and designs with <span className='text-techido-blue'> Techido Designs </span>
                </h1>

@@ -37,8 +37,8 @@ const photoss = [
 function Updates() {
   return (
     <>
-    <div id='updates'>
-      <section className='px-3.5 sm:px-16'>
+    <div className='max-w-8xl mx-auto sm:px-6' id='updates'>
+      <section className='px-3.5 sm:px-16 '>
       <br /> <br />
     <motion.h1
          variants={fadeIn("right", 0.5)}
